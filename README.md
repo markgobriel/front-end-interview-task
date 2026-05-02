@@ -1,3 +1,7 @@
+## Live demo
+
+Deployed site: https://front-end-interview-task.vercel.app/
+
 # Popdrop — Product Catalog
 
 > Everyday finds, made fun.
